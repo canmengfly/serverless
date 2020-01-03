@@ -38,4 +38,4 @@ npm update -g serverless
 serverless create -t tencent-nodejs
 ```
 
-更多高阶能力的支持，可以参考[快速入门](./providers/tencent/cli-reference/create)，或者参照左侧目录，进一步探索。
+更多高阶能力的支持，可以参考[快速入门](./providers/tencent/cli-reference/create/)，或者参照左侧目录，进一步探索。
