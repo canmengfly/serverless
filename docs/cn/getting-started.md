@@ -72,4 +72,4 @@ npm update -g serverless
 serverless
 ```
 
-更多高阶能力的支持，可以参考[快速入门](./providers/tencent/components/quickstart.md)，或者参照左侧目录，进一步探索。
+更多高阶能力的支持，可以参考[快速入门](./providers/tencent/components/quickstart)，或者参照左侧目录，进一步探索。
